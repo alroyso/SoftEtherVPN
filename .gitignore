@@ -206,3 +206,4 @@ developer_tools/stbchecker/**/*.binlog
 developer_tools/stbchecker/**/*.nvuser
 developer_tools/stbchecker/**/.mfractor/
 
+/src/.vs/SEVPN/v15
